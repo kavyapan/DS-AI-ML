@@ -2,7 +2,8 @@
 The repository contains the Machine Learning- Deep Learning Projects completed while pursuing PGCP(Post Graduate Certificaton) in Data Science, AI-ML from IIT Roorkee(E&ICT) & CloudxLab. These projects demonstrate my learning experience in various areas of machine learning, deep learning, computer vision, natural language processing (NLP), and reinforcement learning. Each project showcases different techniques and algorithms applied to solve real-world problems. Let's dive into each project:
 
 **1. California Housing Price Predictions**  
-Machine Learning: Decision Tree, Random Forest.  Description: This project focuses on predicting housing prices in California using machine learning algorithms like Decision Trees and Random Forest.
+Machine Learning: Decision Tree, Random Forest.  
+<br>Description: This project focuses on predicting housing prices in California using machine learning algorithms like Decision Trees and Random Forest.
 
 **2. Forecast Bike Rentals**
 
