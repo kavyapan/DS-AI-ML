@@ -37,7 +37,7 @@ The repository contains the Machine Learning- Deep Learning Projects completed w
 *Deep Learning*: Neural Network, Transfer Learning  
 *Description*: The aim of this project is to compare training from scratch with transfer learning using neural networks.
 
-**[10. Image Classification with Pretrained Keras Model(https://github.com/kavyapan/DS-AI-ML/blob/main/Project10_Image%20Classification_%20Pretrained%20Keras%20Model.ipynb)**  
+**[10. Image Classification with Pretrained Keras Model](https://github.com/kavyapan/DS-AI-ML/blob/main/Project10_Image%20Classification_%20Pretrained%20Keras%20Model.ipynb)**  
 *Transfer Learning*  
 *Description*: In this project, resnet50 which was originally trained to classify the imagenet data is used to predict the class of an input image.
 
