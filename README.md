@@ -1,5 +1,5 @@
 # DS-AI-ML
-The repository contains the Machine Learning- Deep Learning Projects completed while pursuing PGCP(Post Graduate Certificaton) in Data Science, AI-ML from IIT Roorkee(E&ICT) & CloudxLab. These projects demonstrate my learning experience in various areas of machine learning, deep learning, computer vision, natural language processing (NLP), and reinforcement learning. Each project showcases different techniques and algorithms applied to solve real-world problems. Let's dive into each project:
+The repository contains the Machine Learning- Deep Learning Projects completed while pursuing PGCP(Post Graduate Certificaton) in Data Science, AI-ML from IIT Roorkee(E&ICT) & CloudxLab. These projects demonstrate my learning experience in various areas of machine learning, deep learning, computer vision, natural language processing (NLP), and reinforcement learning. Each project showcases different techniques and algorithms applied to solve real-world problems. 
 
 **[1. California Housing Price Predictions](https://github.com/kavyapan/DS-AI-ML/blob/main/Project1_California_housing_price_predictions.ipynb)**  
 *Machine Learning*: Decision Tree, Random Forest.  
@@ -38,49 +38,52 @@ The repository contains the Machine Learning- Deep Learning Projects completed w
 *Description*: The aim of this project is to compare training from scratch with transfer learning using neural networks.
 
 **[10. Image Classification with Pretrained Keras Model](https://github.com/kavyapan/DS-AI-ML/blob/main/Project10_Image%20Classification_%20Pretrained%20Keras%20Model.ipynb)**  
-*Transfer Learning*  
+*Transfer Learning, CNN*  
 *Description*: In this project, resnet50 which was originally trained to classify the imagenet data is used to predict the class of an input image.
 
-**11. Transfer Learning: Cats vs Non-cats**  
-*Transfer Learning*  
-*Description*: Transfer learning applied to distinguish between images of cats and non-cats.
+**[11. Transfer Learning: Cats vs Non-cats](https://github.com/kavyapan/DS-AI-ML/blob/main/Project11_Transfer_learning-cats_vs_noncats.ipynb)**  
+*Transfer Learning, CNN*  
+*Description*: In this project, used the pre-trained VGG16 models which were trained to classify a large set of images, and fine-tune it to make the classifier specific to classification task of cats vs non-cats.
 
-**12. Object Detection & Segmentation with OpenCV Mask R-CNN**  
-*Description*: Object detection and segmentation using Mask R-CNN with OpenCV.
+**[12. Object Detection & Segmentation with OpenCV Mask R-CNN](https://github.com/kavyapan/DS-AI-ML/blob/main/Project12_Object_detection__segmentation__opencv__mask_rcnn.ipynb)**  
+*Transfer Learning, CNN*
+*Description*: The objective of this project is to detect and also segment images, based on pre-trained Tensorflow based object detection models- R-Mask CNN model with inception 2.
 
-**13. Neural Style Transfer**  
+**[13. Neural Style Transfer](https://github.com/kavyapan/DS-AI-ML/blob/main/Project13_Neural_style_transfer_deeplearning.ipynb)**  
 *Deep Learning*  
-*Description*: Implementing neural style transfer using deep learning techniques.
+*Description*: IN this project Neural style transfer is used to create output wherein the style of one painting(style image) is imparted into the content image thus making it feel as if the content image is drawn using the style of the style image. Have used the intermediate layers of the VGG19 network architecture, a pre-trained image classification network.
 
-**14. Iris Flowers Classification**  
+**[14. Iris Flowers Classification](https://github.com/kavyapan/DS-AI-ML/blob/main/Project14_Iris%20Flowers%20Classification_Deep%20Learning.ipynb)**  
 *Deep Learning*  
-*Description*: Classifying Iris flowers using deep learning models.
+*Description*: The objective of the project is to use the Iris dataset to identify the 3 different classes of flowers from the 4 given features using Deep Learning models in the Keras library.
 
-**15. Computer Vision: Find Celebrity Lookalike**  
-*Description*: Using computer vision techniques to find celebrity lookalikes.
+**[15. Computer Vision: Find Celebrity Lookalike](https://github.com/kavyapan/DS-AI-ML/blob/main/Project15_Computer%20Vision_Find%20celebrity%20lookalike.ipynb)**  
+*computer Vision*
+*Description*: The objective of this project is to find out which celebrity looks like you the most.To achieve this, have used the face_recognition library, which is built using dlib’s state-of-the-art face recognition with deep learning.
 
-**16. Image Classification with Pretrained InceptionV3**  
-*Deep Learning*  
-*Description*: Image classification using a pretrained InceptionV3 model.
+**[16. Image Classification with Pretrained InceptionV3](https://github.com/kavyapan/DS-AI-ML/blob/main/Project16_Image%20classification__Pretrained%20inceptionV3.ipynb)**  
+*Deep Learning: Transfer Learning, CNN*  
+*Description*: In this project,have used InceptionV3 to predict the class of an input image and understand the different steps of preprocessing this input image as required by the network, before predicting the class of the image.
 
-**17. Stock Closing Price Prediction with RNN**  
-*Deep Learning*  
-*Description*: Predicting stock closing prices using Recurrent Neural Networks (RNN).
+**[17. Stock Closing Price Prediction with RNN](https://github.com/kavyapan/DS-AI-ML/blob/main/Project17_Stock_closing_price_prediction_RNN.ipynb)**  
+*Deep Learning: RNN *  
+*Description*: IN this project, predicted the stock closing prices using Recurrent Neural Networks (RNN)-GRU.
 
-**18. Sentiment Analysis using TensorFlow**  
-*Deep Learning*  
-*Description*: Sentiment analysis implementation using TensorFlow.
+**[18. Sentiment Analysis using TensorFlow](https://github.com/kavyapan/DS-AI-ML/blob/main/Project18_Sentiment%20Analysis%20using%20Tensorflow.ipynb)**  
+*Deep Learning: NLP*  
+*Description*: The obejctive of the project is to understand how to process English sentences, apply NLP techniques, make the deep learning model understand the context of the sentence, and classify the sentiment the sentence implies.
 
-**19. Twitter Sentiment Analysis**  
-*Deep Learning, NLP*  
-*Description*: Sentiment analysis on Twitter data using deep learning and natural language processing techniques.
+**[19. Twitter Sentiment Analysis](https://github.com/kavyapan/DS-AI-ML/blob/main/Project19_Twitter%20Sentiment%20Analysis-Deep%20Learning-NLP.ipynb)**  
+*Deep Learning: NLP*  
+*Description*: The objective of this project is to build an NLP-based Classification model which can predict Tweets as Hate Speech, Offensive Language, and Normal.
 
-**20. Autoencoders for Image Generation: Fashion MNIST**  
-*Deep Learning*  
-*Description*: Generating images using autoencoders trained on the Fashion MNIST dataset.
+**[20. Autoencoders for Image Generation: Fashion MNIST](https://github.com/kavyapan/DS-AI-ML/blob/main/Project20_Autoencoders_Image%20Generation_Fashion%20MNIST.ipynb)**  
+*Deep Learning : Autoencoders*  
+*Description*: The objective of this project is to generate images using autoencoders trained on the Fashion MNIST dataset.This provides an understanding how to implement the autoencoder, stacking an encoder and decoder using TensorFlow2 and to depict the reconstructed output images by the autoencoder model.
 
-**21. Reinforcement Learning: Cartpole Game**  
-*Description*: Implementing reinforcement learning techniques to play the Cartpole game.
+**[21. Reinforcement Learning: Cartpole Game](https://github.com/kavyapan/DS-AI-ML/blob/main/Project21_Reinforcement%20Learning_Cartpolegame.ipynb)**
+*Reinforcement Learning*
+*Description*: The objective of the project is to implement Cartpole game using reinforcement learning.
 
 Feel free to explore each project in detail. If you have any questions or suggestions, don't hesitate to reach out! 🚀
 
