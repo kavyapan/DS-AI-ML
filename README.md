@@ -81,7 +81,7 @@ The repository contains the Machine Learning- Deep Learning Projects completed w
 *Deep Learning : Autoencoders*  
 *Description*: The objective of this project is to generate images using autoencoders trained on the Fashion MNIST dataset.This provides an understanding how to implement the autoencoder, stacking an encoder and decoder using TensorFlow2 and to depict the reconstructed output images by the autoencoder model.
 
-**[21. Reinforcement Learning: Cartpole Game](https://github.com/kavyapan/DS-AI-ML/blob/main/Project21_Reinforcement%20Learning_Cartpolegame.ipynb)**
+**[21. Reinforcement Learning: Cartpole Game](https://github.com/kavyapan/DS-AI-ML/blob/main/Project21_Reinforcement%20Learning_Cartpolegame.ipynb)**  
 *Reinforcement Learning*
 *Description*: The objective of the project is to implement Cartpole game using reinforcement learning.
 
