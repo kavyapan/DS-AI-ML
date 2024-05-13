@@ -58,7 +58,7 @@ The repository contains the Machine Learning- Deep Learning Projects completed w
 *Description*: The objective of the project is to use the Iris dataset to identify the 3 different classes of flowers from the 4 given features using Deep Learning models in the Keras library.
 
 **[15. Computer Vision: Find Celebrity Lookalike](https://github.com/kavyapan/DS-AI-ML/blob/main/AI_Deep_Learning_Projects/Project15_Computer%20Vision_Find%20celebrity%20lookalike.ipynb)**  
-*computer Vision*  
+*Computer Vision*  
 *Description*: The objective of this project is to find out which celebrity looks like you the most.To achieve this, have used the face_recognition library, which is built using dlib’s state-of-the-art face recognition with deep learning.
 
 **[16. Image Classification with Pretrained InceptionV3](https://github.com/kavyapan/DS-AI-ML/blob/main/AI_Deep_Learning_Projects/Project16_Image%20classification__Pretrained%20inceptionV3.ipynb)**  
@@ -81,7 +81,7 @@ The repository contains the Machine Learning- Deep Learning Projects completed w
 *Deep Learning : Autoencoders*  
 *Description*: The objective of this project is to generate images using autoencoders trained on the Fashion MNIST dataset.This provides an understanding how to implement the autoencoder, stacking an encoder and decoder using TensorFlow2 and to depict the reconstructed output images by the autoencoder model.
 
-**[21. Reinforcement Learning: Cartpole Game](https://github.com/kavyapan/DS-AI-ML/blob/main/Machine_Learning_Projects/Project21_Reinforcement%20Learning_Cartpolegame.ipynb)**  
+**[21. Reinforcement Learning: Cartpole Game](https://github.com/kavyapan/DS-AI-ML/blob/main/AI_Deep_Learning_Projects/Project21_Reinforcement%20Learning_Cartpolegame.ipynb)**  
 *Reinforcement Learning*
 *Description*: The objective of the project is to implement Cartpole game using reinforcement learning.
 
